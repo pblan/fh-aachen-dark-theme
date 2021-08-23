@@ -4,7 +4,7 @@
     "name": "fh-aachen-dark-theme",
     "displayName": "FH Aachen Dark Theme",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^0.10.5"
     },
