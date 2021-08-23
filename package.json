@@ -1,0 +1,22 @@
+{
+    "publisher": "pblan",
+    "name": "fh-aachen-dark-theme",
+    "displayName": "FH Aachen Dark Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "FH Aachen Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/FH Aachen Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
