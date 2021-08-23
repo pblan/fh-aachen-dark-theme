@@ -1,10 +1,11 @@
 {
-    "publisher": "pblan",
-    "repository": "https://github.com/pblan/fh-aachen-dark-theme",
     "name": "fh-aachen-dark-theme",
     "displayName": "FH Aachen Dark Theme",
     "description": "",
     "version": "0.3.0",
+    "publisher": "pblan",
+    "repository": "https://github.com/pblan/fh-aachen-dark-theme",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^0.10.5"
     },
